@@ -1995,4 +1995,4 @@ Demo Cart URL: ${generateShopifyCartUrl(selectedProducts, productSelections)}`;
   );
 };
 
-export default function Home() { ... }
+export default VEOSReferralSystem;
